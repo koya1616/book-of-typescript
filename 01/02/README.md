@@ -1,6 +1,6 @@
 ## tscコマンドではじめよう
 
-####　型チェックの厳密さを弱くする
+#### 型チェックの厳密さを弱くする
 ```
 "strict": true
 Enable all strict type-checking options.
